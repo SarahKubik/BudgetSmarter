@@ -6,9 +6,9 @@
 [**Table of Contents**](Contents)
 
 * [About](#about)
-* [Usage](#Usage)
 * [Built With](#BuiltWith)
 * [Installation](#Installation)
+* [Usage](#Usage)
 * [Links](#Links)
 
 <!-- ABOUT THE PROJECT -->
@@ -17,29 +17,6 @@
 ---
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
-
-## Usage ##
-
----
-
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
-
----
- **Offline Functionality:**
-
-* Enter deposits offline
-
-* Enter expenses offline
-
- **When brought back online:**
-
-* Offline entries should be added to tracker.
-
----
-
-![BudgetSmart](./public/images/mockup.jpg)
-
-## Getting Started ##
 
 ### Built With ###
 
@@ -56,9 +33,25 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ---
 
-</br>
-
 > ![Startup](./public/images/Startup.jpg)
+
+## Usage ##
+
+---
+
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+ **Offline Functionality:**
+
+* Enter deposits offline
+
+* Enter expenses offline
+
+ **When brought back online:**
+
+* Offline entries should be added to tracker.
+
+![BudgetSmart](./public/images/mockup.jpg)
 
 ### Links ###
 
