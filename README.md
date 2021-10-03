@@ -51,6 +51,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 * Offline entries should be added to tracker.
 
+
 ![BudgetSmart](./public/images/mockup.jpg)
 
 ### Links ###
