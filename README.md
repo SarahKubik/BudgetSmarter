@@ -57,5 +57,5 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 ---
 
-* Github Repo: <https://github.com/SarahKubik/BudgetTracker.git>
+* Github Repo: <https://github.com/SarahKubik/BudgetSmarter.git>
 * Heroku App: <https://git.heroku.com/budgetsmart.git>
