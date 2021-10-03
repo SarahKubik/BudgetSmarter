@@ -1,0 +1,12 @@
+{
+    "markdownlint.ignore": [],
+    "editor.someSetting": true,
+    "markdownlint.run": "onSave",
+    "markdownlint.config": {
+        "default": true,
+        "MD003": { "style": "atx_closed" },
+        "MD007": { "indent": 4 },
+        "no-hard-tabs": false,
+        "editor.someSetting": true,
+    }
+}

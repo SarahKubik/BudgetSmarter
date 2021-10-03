@@ -1,63 +1,68 @@
+# Budget Smart #
 
+·[**View Site**](https://git.heroku.com/budgetsmart.git/)·
 
-<br />
-  <h1 align="center">Budget Tracker</h3>
-
-  <p align="center"
-    <br />
-       ·
-    <a href="https://survivalist-bc.herokuapp.com/">View Site</a>
-    ·
-  </p>
-</p>
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#About the project">About the project</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-  </ol>
-</details>
+[**Table of Contents**](Contents)
+
+* [About](#about)
+* [Usage](#Usage)
+* [Built With](#BuiltWith)
+* [Installation](#Installation)
+* [Links](#Links)
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About ##
 
-[![Survivalist](https://res.cloudinary.com/marcomontalbano/image/upload/v1631991823/video_to_markdown/images/google-drive--15U8zz4Paub0FqQyxmmXa9WECWTiaPG3a-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/15U8zz4Paub0FqQyxmmXa9WECWTiaPG3a/view "Survivalist")
+---
 
-Are you worried about the end of the world? A civil war? Just tired of your neighbors? Do you believe in being prepared for every event? Do you believe in "Survivalism"? Well our app was created just for you! Our app allows the user to search for survivalist products at low prices. It's a one stop shop for all your survivalist needs. The app focuses on the following products: Food, Water, Tools, and Shelter.
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-### Built With
+## Usage ##
+
+---
+
+The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+
+---
+ **Offline Functionality:**
+
+* Enter deposits offline
+
+* Enter expenses offline
+
+ **When brought back online:**
+
+* Offline entries should be added to tracker.
+
+---
+
+![BudgetSmart](./public/images/mockup.jpg)
+
+## Getting Started ##
+
+### Built With ###
+
+---
 
 * [Express](https://expressjs.com/)
 * [Compression](https://www.npmjs.com/package/compression)
 * [lite-server](https://www.npmjs.com/package/lite-server)
 * [Mongoose](https://mongoosejs.com/)
 * [Morgan](https://www.npmjs.com/package/morgan)
+  </br>
 
-### Installation
+### Installation ###
 
-Using the Apollo Server, the backend was developed and connected to the front end client. Graphlql was setup as the database while Concurrently acted as the middleware running the backend server and frontend client simultaneously using schemas made up of mutuations, typedefs, and modules. Bootstrap and Style Components were used to style the front end.
+---
 
-## Usage
+</br>
 
-The app was launched in its infancy stage with a login and landing page that links to Wikipedia articles discussing broad topics of survival tools and resources.
+> ![Startup](./public/images/Startup.jpg)
 
-## Roadmap
+### Links ###
 
-A full end to end solution, an Ecommerce lifeystyle application that offers a user friendly marketplace of products, services and resources catering to those who practice and or are interested in living a "less is more" sustainable life.
+---
 
-## Links
-
-* [Github Repo](https://github.com/SarahKubik/BudgetTracker.git)
+* Github Repo: <https://github.com/SarahKubik/BudgetTracker.git>
+* Heroku App: <https://git.heroku.com/budgetsmart.git>
