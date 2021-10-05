@@ -33,7 +33,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ---
 
-> ![Startup](./public/images/Startup.jpg)
+![Startup](./public/images/Startup.jpg)
 
 ## Usage ##
 
@@ -58,4 +58,4 @@ The user will be able to add expenses and deposits to their budget with or witho
 ---
 
 * Github Repo: <https://github.com/SarahKubik/BudgetSmarter.git>
-* Heroku App: <https://git.heroku.com/budgetsmart.git>
+* Heroku App: <https://budgetsmart.herokuapp.com/>
