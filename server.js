@@ -3,10 +3,9 @@ const logger = require("morgan");
 const mongoose = require("mongoose");
 const compression = require("compression");
 
-const port = process.env.PORT || 3000;
-
-
-const app = express();
+const PORT = process.env.PORT || '3000';
+app = express();
+app.set("port", PORT);
 
 app.use(logger("dev"));
 
